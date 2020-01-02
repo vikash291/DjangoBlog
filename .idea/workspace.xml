@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="37883411-39c0-4629-8d9e-dc1dcfbfda62" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1Uz3yQ6rxbLV6ebMzDsJfu0Tmz6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="37883411-39c0-4629-8d9e-dc1dcfbfda62" name="Default Changelist" comment="" />
+      <created>1576345851181</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576345851181</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="167" y="54" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576346576003">
+      <screen x="53" y="27" width="1313" height="741" />
+    </state>
+    <state x="167" y="54" key="#com.intellij.execution.impl.EditConfigurationsDialog/53.27.1313.741@53.27.1313.741" timestamp="1576346576003" />
+    <state x="446" y="160" width="515" height="472" key="EnvironmentVariablesDialog" timestamp="1576346500470">
+      <screen x="53" y="27" width="1313" height="741" />
+    </state>
+    <state x="446" y="160" width="515" height="472" key="EnvironmentVariablesDialog/53.27.1313.741@53.27.1313.741" timestamp="1576346500470" />
+    <state x="1893" y="214" key="SettingsEditor" timestamp="1577450563333">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1893" y="214" key="SettingsEditor/53.27.1313.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1577450563333" />
+    <state width="498" height="398" key="SwitcherDM" timestamp="1576345939785">
+      <screen x="53" y="27" width="1313" height="741" />
+    </state>
+    <state width="498" height="398" key="SwitcherDM/53.27.1313.741@53.27.1313.741" timestamp="1576345939785" />
+    <state x="365" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1577450129767">
+      <screen x="53" y="27" width="1313" height="741" />
+    </state>
+    <state x="365" y="225" key="com.intellij.ide.util.TipDialog/53.27.1313.741/1366.0.1920.1080@53.27.1313.741" timestamp="1577450129767" />
+    <state x="365" y="225" key="com.intellij.ide.util.TipDialog/53.27.1313.741@53.27.1313.741" timestamp="1576345930940" />
+  </component>
+</project>
